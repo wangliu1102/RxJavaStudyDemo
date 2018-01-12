@@ -18,6 +18,14 @@ public class MainActivity extends AppCompatActivity {
 //        CombinationMultipleObservable.mergeArray();
 //        CombinationMultipleObservable.concatDelayError();
 
+//        MergeMultipleEvent.zip();
+//        MergeMultipleEvent.combineLatest();
+//        MergeMultipleEvent.combineLatestDelayError();
+//        MergeMultipleEvent.reduce();
+//        MergeMultipleEvent.collect();
 
+//        AddEventBeforeSendEvent.startWithOrArray();
+
+        CountSendEvent.count();
     }
 }
