@@ -24,6 +24,10 @@ compile 'com.squareup.retrofit2:adapter-rxjava2:2.3.0'
 
 compile 'com.squareup.retrofit2:converter-gson:2.3.0'
 
+// rxjava绑定Android的UI部件的API
+
+compile 'com.jakewharton.rxbinding2:rxbinding:2.0.0'
+
 -------------------------------------------------------------------------------------------------------------------------
 
 RxJava学习系列的文章，可以参考Carson_Ho大神的RxJava系列文章：http://blog.csdn.net/carson_ho/article/category/7227390
