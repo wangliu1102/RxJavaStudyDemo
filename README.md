@@ -56,7 +56,9 @@ RxJava入门 --> 01_RxJavaTest
 
 联合判断 --> 09_JointJudgment （http://blog.csdn.net/carson_ho/article/details/78455624 ）
 
-功能性操作符 -->
+功能性操作符 --> 10_FunctionalOperators （http://blog.csdn.net/carson_ho/article/details/78537277 ）
+            
+线程控制（切换/调度）--> （https://www.jianshu.com/p/5225b2baaecd ）
 
 网络请求出错重连 -->
 
@@ -70,7 +72,6 @@ RxJava入门 --> 01_RxJavaTest
 
 
 
-线程控制（切换/调度）-->
 
 背压策略 -->
 
