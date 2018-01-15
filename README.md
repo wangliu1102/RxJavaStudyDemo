@@ -54,7 +54,7 @@ RxJava入门 --> 01_RxJavaTest
 
 合并数据源&同时展示数据 --> 08_MergeDataAndDisplay（http://blog.csdn.net/carson_ho/article/details/78455544 ）
 
-联合判断 -->
+联合判断 --> 09_JointJudgment （http://blog.csdn.net/carson_ho/article/details/78455624 ）
 
 功能性操作符 -->
 
