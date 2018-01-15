@@ -1,6 +1,31 @@
 # RxJavaStudyDemo
 RxJava学习的Demo
 
+用的到的依赖项
+-------------------------------------------------------------------------------------------------------------------------
+
+// Android 支持 Rxjava
+
+// 此处一定要注意使用RxJava2的版本
+
+compile 'io.reactivex.rxjava2:rxjava:2.1.8'
+
+compile 'io.reactivex.rxjava2:rxandroid:2.0.1'
+
+// Android 支持 Retrofit
+
+compile 'com.squareup.retrofit2:retrofit:2.3.0'
+
+// 衔接 Retrofit & RxJava
+
+compile 'com.squareup.retrofit2:adapter-rxjava2:2.3.0'
+
+// 支持Gson解析
+
+compile 'com.squareup.retrofit2:converter-gson:2.3.0'
+
+-------------------------------------------------------------------------------------------------------------------------
+
 RxJava学习系列的文章，可以参考Carson_Ho大神的RxJava系列文章：http://blog.csdn.net/carson_ho/article/category/7227390
 
 RxJava入门 --> 01_RxJavaTest 
