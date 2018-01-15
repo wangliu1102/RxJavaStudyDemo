@@ -32,29 +32,29 @@ compile 'com.jakewharton.rxbinding2:rxbinding:2.0.0'
 
 RxJava学习系列的文章，可以参考Carson_Ho大神的RxJava系列文章：http://blog.csdn.net/carson_ho/article/category/7227390
 
-一、RxJava入门 --> 01_RxJavaTest 
-            （http://blog.csdn.net/carson_ho/article/details/78179340 ）
-            
+一、RxJava入门 --> 01_RxJavaTest （http://blog.csdn.net/carson_ho/article/details/78179340 ）
+
+
 二、创建操作符 --> 02_CreateOperator 
             （http://blog.csdn.net/carson_ho/article/details/78246732 ）           
-
-
+            
+            
 例子：网络请求轮询 --> 03_NetworkRequestPolling 
             （http://blog.csdn.net/carson_ho/article/details/78256466 ）
-            
-
+            
+            
 三、变换操作符 --> 04_TransformationOperator
             （http://blog.csdn.net/carson_ho/article/details/78315437 ）            
-
-
+            
+            
 例子：网络请求嵌套回调 --> 05_NestedCallbackForNetworkRequests
             （http://blog.csdn.net/carson_ho/article/details/78315696 ）
-            
-
+            
+            
 四、组合/合并操作符 --> 06_CombinedOrMergeOperator
             （http://blog.csdn.net/carson_ho/article/details/78455349 ）            
-
-
+            
+            
 例子：从磁盘/内存缓存中获取缓存数据 --> 07_GetCachedDataFromDiskOrMemory（http://blog.csdn.net/carson_ho/article/details/78455449 ）
 
 
@@ -65,7 +65,7 @@ RxJava学习系列的文章，可以参考Carson_Ho大神的RxJava系列文章�
 
 
 五、功能性操作符 --> 10_FunctionalOperators （http://blog.csdn.net/carson_ho/article/details/78537277 ）
-            
+
 
 例子：线程控制（切换/调度）--> （https://www.jianshu.com/p/5225b2baaecd ）
 
