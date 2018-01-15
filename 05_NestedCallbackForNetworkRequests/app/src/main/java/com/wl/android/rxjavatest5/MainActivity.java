@@ -49,7 +49,6 @@ public class MainActivity extends AppCompatActivity {
                         Log.d(TAG, translation1.toString());
                     }
                 })
-
                 .observeOn(Schedulers.io())
                 // （新被观察者，同时也是新观察者）切换到IO线程去发起登录请求
                 // 特别注意：因为flatMap是对初始被观察者作变换，所以对于旧被观察者，它是新观察者，所以通过observeOn切换线程
