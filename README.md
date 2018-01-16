@@ -88,7 +88,7 @@ RxJava学习系列的文章，可以参考Carson_Ho大神的RxJava系列文章�
 例2：有条件网络请求轮询 --> 11_ConditionNetworkRequestPolling （http://blog.csdn.net/carson_ho/article/details/78558790 ）
 
 
-例3：网络请求出错重连 -->
+例3：网络请求出错重连 --> 12_NetworkRequestErrorReconnect （http://blog.csdn.net/carson_ho/article/details/78651602 ）
 
 -------------------------------------------------------------------------------------------------------------------------
 
